@@ -1,0 +1,29 @@
+.h-200{
+    height: 200px;
+}
+
+.h-600{
+    height: 600px;
+}
+.h-250{
+    height: 250px;
+}
+.h-50{
+    height: 50px;
+}
+.h-100{
+    height: 100px;
+}
+.h-400{
+    height: 200px;
+}
+.card-default-height{
+    height: 250px;
+}
+.card-big-img{
+    height: 350px;
+}
+
+.cad{
+    background-color: rgba(0,0,0,0.3);
+}
